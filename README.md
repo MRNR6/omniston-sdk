@@ -15,23 +15,23 @@ All SDKs can be found in the [`packages/`](https://github.com/ston-fi/omniston-s
 
 ### [@ston-fi/omniston-sdk](https://github.com/ston-fi/omniston-sdk/tree/main/packages/omniston-sdk)
 
-[![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/)
+[![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/npm/v/@ston-fi/omniston-sdk/latest.svg)](https://www.npmjs.com/package/@ston-fi/omniston-sdk/v/latest)
 
 ### [@ston-fi/omniston-sdk-react](https://github.com/ston-fi/omniston-sdk/tree/main/packages/omniston-sdk-react)
 
-[![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org/)
+[![TON](https://img.shields.io/badge/based%20on-TON-blue)](https://ton.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/npm/v/@ston-fi/omniston-sdk-react/latest.svg)](https://www.npmjs.com/package/@ston-fi/omniston-sdk-react/v/latest)
 
 ## Next steps
 
-### Take a look at the demo app
+### Take a look at the example app
 
-We provide a fully functional demo application showcasing SDK usage in a Next.js environment. The source code is open-source and available [here](https://github.com/ston-fi/omniston-sdk/tree/main/examples/next-js-app).
+We provide a fully functional example application showcasing SDK usage in react app. The source code is open-source and available [here](https://github.com/ston-fi/omniston-sdk/tree/main/examples/react-app).
 
-Try the demo app at https://omniston.ston.fi
+Try the app at https://omniston.ston.fi
 
 ### Explore the documentation
 
